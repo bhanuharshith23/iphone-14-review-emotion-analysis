@@ -137,3 +137,19 @@ This project is developed for educational and academic purposes.
 The dataset used for this project consists of iPhone 14 customer reviews collected from publicly available online sources.
 
 Due to dataset availability and licensing considerations, the dataset is not included in this repository.
+
+## Results
+
+The project successfully analyzes customer reviews of iPhone 14 and classifies sentiments using NLP techniques.
+
+### Output Screenshot
+
+![Project Result](results/result.png)
+
+### Key Outcomes
+
+- Performed text preprocessing and cleaning.
+- Extracted customer sentiments from iPhone 14 reviews.
+- Classified reviews into sentiment categories.
+- Generated visual outputs for sentiment analysis.
+- Provided insights into customer emotions and product perception.
