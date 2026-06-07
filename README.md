@@ -138,6 +138,10 @@ The dataset used for this project consists of iPhone 14 customer reviews collect
 
 Due to dataset availability and licensing considerations, the dataset is not included in this repository.
 
+## Source Code
+
+The project implementation is available in the `source_code.py` file.
+
 ## Results
 
 The project successfully analyzes customer reviews of iPhone 14 and classifies sentiments using NLP techniques.
