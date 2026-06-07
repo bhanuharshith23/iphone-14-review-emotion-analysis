@@ -148,7 +148,8 @@ The project successfully analyzes customer reviews of iPhone 14 and classifies s
 
 ### Output Screenshot
 
-![Project Result](results/result.png)
+![Project Result](results/result.png/outputs.zip
+)
 
 ### Key Outcomes
 
